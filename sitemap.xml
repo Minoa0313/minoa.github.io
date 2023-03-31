@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://minoa0313.github.io/about/index.html</loc>
+    <loc>https://minoa0313.github.io/posts/835434ff.html</loc>
+    
+    <lastmod>2023-03-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://minoa0313.github.io/posts/8efea407.html</loc>
     
     <lastmod>2023-03-31</lastmod>
     
@@ -20,45 +29,9 @@
   </url>
   
   <url>
-    <loc>https://minoa0313.github.io/posts/f08bcbe4.html</loc>
-    
-    <lastmod>2021-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://minoa0313.github.io/posts/8efea407.html</loc>
-    
-    <lastmod>2021-01-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://minoa0313.github.io/posts/835434ff.html</loc>
-    
-    <lastmod>2021-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://minoa0313.github.io/posts/9532633b.html</loc>
     
-    <lastmod>2021-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://minoa0313.github.io/posts/94e1f616.html</loc>
-    
-    <lastmod>2020-12-21</lastmod>
+    <lastmod>2023-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +40,34 @@
   <url>
     <loc>https://minoa0313.github.io/posts/fe40a648.html</loc>
     
-    <lastmod>2020-12-19</lastmod>
+    <lastmod>2023-03-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://minoa0313.github.io/posts/f08bcbe4.html</loc>
+    
+    <lastmod>2023-03-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://minoa0313.github.io/posts/94e1f616.html</loc>
+    
+    <lastmod>2023-03-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://minoa0313.github.io/about/index.html</loc>
+    
+    <lastmod>2023-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
