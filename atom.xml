@@ -6,7 +6,7 @@
   <link href="https://minoa0313.github.io/atom.xml" rel="self"/>
   
   <link href="https://minoa0313.github.io/"/>
-  <updated>2023-04-02T03:31:59.794Z</updated>
+  <updated>2023-04-03T10:43:08.210Z</updated>
   <id>https://minoa0313.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一天在家办公</title>
+    <link href="https://minoa0313.github.io/posts/e30b5a41.html"/>
+    <id>https://minoa0313.github.io/posts/e30b5a41.html</id>
+    <published>2023-04-03T10:33:29.000Z</published>
+    <updated>2023-04-03T10:43:08.210Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="遇到的问题"><a href="#遇到的问题" class="headerlink" title="遇到的问题"></a>遇到的问题</h1><ol><li><p>连上VPN，但是打不开公司的Git网页。</p><p>遇事不决便重启，我发现在启动VPN的时候弹出了更新页面。又结合之前做过的信息安全的题目，一想，肯定是版本太低。更新后，果然打开网页了。</p></li><li><p>拉取远程库失败。</p><p>错误信息如下。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">git.exe pull --progress -v --no-rebase &quot;origin&quot;</span><br><span class="line">remote: Enumerating objects: 271, done.</span><br><span class="line">remote: Counting objects: 100% (225/225), done.</span><br><span class="line">remote: warning: suboptimal pack - out of memory</span><br><span class="line">remote: fatal: Out of memory, malloc failed (tried to allocate 147766243 bytes)</span><br><span class="line">error: git upload-pack: git-pack-objects died with error.</span><br><span class="line">fatal: git upload-pack: aborting due to possible repository corruption on the remote side.</span><br><span class="line">Gitea: Internal error</span><br><span class="line">remote: aborting due to possible repository corruption on the remote side.</span><br><span class="line"></span><br><span class="line">fatal: protocol error: bad pack header</span><br></pre></td></tr></table></figure><p>我在群里问了同事，同事说不能连公司内网，不然拉取不了。我关了内网但还是拉取失败。</p><p>于是我继续重启，就好了。</p><p>看错误信息是内存不足，我想有可能是之前拉取失败导致内存被占用（不负责任的猜测）。</p></li></ol><h1 id="感受"><a href="#感受" class="headerlink" title="感受"></a>感受</h1><p>效率超高的，还可以一边听歌一边跟着唱。</p><p>不过下午写文档就很痛苦了。至今还没搞明白基本设计书要怎么写。继续加油吧！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;遇到的问题&quot;&gt;&lt;a href=&quot;#遇到的问题&quot; class=&quot;headerlink&quot; title=&quot;遇到的问题&quot;&gt;&lt;/a&gt;遇到的问题&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;连上VPN，但是打不开公司的Git网页。&lt;/p&gt;
+&lt;p&gt;遇事不决便重启，我发现在启动VPN的时候弹</summary>
+      
+    
+    
+    
+    <category term="工作日志" scheme="https://minoa0313.github.io/categories/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="git" scheme="https://minoa0313.github.io/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title>重启Blog</title>
