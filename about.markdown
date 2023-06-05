@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Minoa, and welcome to my blog.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'll be periodically sharing content around various topics that I'm passionate about. These include book reviews and reading experiences, minimalism as a lifestyle choice, video gaming adventures, everyday life anecdotes, as well as insights and lessons from my technical learning journey.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog is an open book of my life's fascinations and explorations. So, whether you're a fellow book lover, a minimalist, a gamer, or a tech enthusiast, I believe you'll find something that resonates with you here.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Thank you for stopping by, and I look forward to sharing my world with you.
