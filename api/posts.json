@@ -1,0 +1,13 @@
+---
+---
+[
+{% for post in site.posts %}
+{% unless post.draft %}
+  {
+    "title": "{{ post.title }}",
+    "category": "{{ post.category }}",
+    "url": "{{ post.url | prepend: site.baseurl }}",
+  }{% unless forloop.last %},{% endunless %}
+{% endunless %}
+{% endfor %}
+]
