@@ -2,7 +2,7 @@
 layout: post
 title:  "《当下的力量》读后感"
 date:   2023-04-02 23:04:16 +0900
-categories: Read
+category: Read
 ---
 
 开门见山，对我感触最大的几点有：
