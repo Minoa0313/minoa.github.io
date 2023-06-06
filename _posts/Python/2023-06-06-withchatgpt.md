@@ -112,14 +112,14 @@ gg.gantt_generator()
 
 2. 每个公司为计划时间分配的ID字段不同，这个需要自己去查。
 
-  可以通过以下几句代码，将ID和字段打印出来，以便查看。
+   可以通过以下几句代码，将ID和字段打印出来，以便查看。
 
-  ```python 
-  fields = jira.fields() 
-  for field in fields: 
-  	print(f"Name: {field['name']}, ID: {field['id']}")
-  ```
+      ```python 
+   fields = jira.fields() 
+   for field in fields: 
+       print(f"Name: {field['name']}, ID: {field['id']}")
+      ```
 
 3. 在显示日语时出现了错误，日语字都变成方框，无法显示。后通过更换显示字体解决。 
-  `plt.rcParams['font.family'] = 'MS Gothic'`
+   `plt.rcParams['font.family'] = 'MS Gothic'`
 
