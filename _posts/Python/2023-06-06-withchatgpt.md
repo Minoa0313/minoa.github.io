@@ -8,6 +8,7 @@ category: Python
 ### 环境 
 
 python 3.10.9
+
 windows10
 
 ### 目的
@@ -108,13 +109,17 @@ gg.gantt_generator()
 
 ### 遇到的问题
 1. 我一开始以为是要显示开始时间和结束时间，但其实是计划时间。因此最初获得的结束时间为空，图标上什么也没有显示出来。
+
 2. 每个公司为计划时间分配的ID字段不同，这个需要自己去查。
-	可以通过以下几句代码，将ID和字段打印出来，以便查看。
-	```python 
-fields = jira.fields() 
-for field in fields: 
-		print(f"Name: {field['name']}, ID: {field['id']}")
-	```
+
+  可以通过以下几句代码，将ID和字段打印出来，以便查看。
+
+  ```python 
+  fields = jira.fields() 
+  for field in fields: 
+  	print(f"Name: {field['name']}, ID: {field['id']}")
+  ```
+
 3. 在显示日语时出现了错误，日语字都变成方框，无法显示。后通过更换显示字体解决。 
-	`plt.rcParams['font.family'] = 'MS Gothic'`
+  `plt.rcParams['font.family'] = 'MS Gothic'`
 
