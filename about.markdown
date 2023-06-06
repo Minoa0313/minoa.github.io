@@ -4,10 +4,21 @@ title:
 permalink: /about/
 ---
 
-Hi, I'm Minoa, and welcome to my blog.
+### 本人及博客简介
+这里是minoa，欢迎来的我的博客。<br>
+博客名为：Live in the moment，是活在当下的意思。<br>
+博客的主要内容（将来会发布的内容）有：<br>
+游戏记录，极简，读书，生活感悟、思考与回顾，还会写一些遇到的技术上的问题。
 
-I'll be periodically sharing content around various topics that I'm passionate about. These include book reviews and reading experiences, minimalism as a lifestyle choice, video gaming adventures, everyday life anecdotes, as well as insights and lessons from my technical learning journey.
+本着极简的原则，博客为一图流，即所有文章的头图都是相同的。<br>
+希望自己能更加注重内容而非形式，多多输出。
 
-This blog is an open book of my life's fascinations and explorations. So, whether you're a fellow book lover, a minimalist, a gamer, or a tech enthusiast, I believe you'll find something that resonates with you here.
 
-Thank you for stopping by, and I look forward to sharing my world with you.
+
+### 博客计划
+
+- 通过github的issue来实现评论功能
+- 修改代码样式，显示行数
+
+
+
