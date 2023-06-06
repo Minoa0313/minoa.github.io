@@ -113,7 +113,7 @@ gg.gantt_generator()
 	```python 
 fields = jira.fields() 
 for field in fields: 
-	print(f"Name: {field['name']}, ID: {field['id']}")
+		print(f"Name: {field['name']}, ID: {field['id']}")
 	```
 3. 在显示日语时出现了错误，日语字都变成方框，无法显示。后通过更换显示字体解决。 
 	`plt.rcParams['font.family'] = 'MS Gothic'`
