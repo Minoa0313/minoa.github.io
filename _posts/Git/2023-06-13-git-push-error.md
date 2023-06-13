@@ -6,6 +6,7 @@ category: Git
 ---
 # 出现的问题
 使用TortoiseGit可以Pull，但是无法Push
+
 错误如下（隐私起见，模糊了部分信息）
 ```
 git.exe push --progress "origin" master:refs/for/master
